@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smalipeddi
-- 👀 I’m interested in ... building Angular applications
-- 🌱 I’m currently learning ... React Framework
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m sunitha malipeddi
+- 👀 I’m interested in ... building Angular and React Web applications using Ruby On Rails on the backend.
+- 🌱 I’m currently learning ...docker, Kubernetes 
+- 💞️ I’m looking to collaborate on front end technologies, AWS, docker, Ruby on Rails ......
 - 📫 How to reach me ... sunitha_malipeddi@yahoo.com
 
 <!---
